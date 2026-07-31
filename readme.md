@@ -1,0 +1,1 @@
+Krishi Sebais a full-stack smart agriculture web platform that bridges the gap between Bangladeshi farmers, agricultural experts, and the farming supply marketplace. Built with React.js, Node.js, MongoDB, and Firebase — and enhanced by Google Gemini Vision AI — it delivers a role-based digital agriculture ecosystem.
