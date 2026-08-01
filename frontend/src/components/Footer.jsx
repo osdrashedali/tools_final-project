@@ -59,7 +59,7 @@ const Footer = () => {
       </div>
 
       <div className="border-t border-green-800 text-center py-4 text-xs text-green-400">
-        © {new Date().getFullYear()} কৃষি সেবা — All rights reserved [Emam, Shagor , Mashrafi, Rashed].
+        © {new Date().getFullYear()} কৃষি সেবা — All rights reserved.
       </div>
     </footer>
   );
